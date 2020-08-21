@@ -1,7 +1,10 @@
 ### Hi there 👋
-<label><strong>Email</strong>
-<input>Get there </input>
-</label>
+
+I regularly write blog posts that are about web tech in my website. You can see those here ulusoymuhammet.com
+I have passion for learning and sharing my experiences with others publicly.
+I love open source so much and of course contibuting to issues which i am familiar with.
+I will very happy with your interaction so you can reach me with
+<i class="fas fa-band-aid"></i>
 
 <!--
 **ulusoymhmmt/ulusoymhmmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
