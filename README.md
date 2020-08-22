@@ -3,7 +3,7 @@
 🔭<bold>I regularly write blog posts about web tech in my website. You can see those</bold> <a href="https://ulusoymhmmt.com"><mark>here</mark></a>.
 👯<bold>I have passion for learning and sharing my experiences with others publicly.</bold>
 🌱<bold>I love open source so much and of course contibuting to issues which i am familiar with.</bold>
-😄<bold>I will very happy with your interaction so you can reach me with</bold>
+😄<bold>I will very happy with your interaction</bold>
 
 
 <!--
